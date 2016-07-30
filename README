@@ -1,0 +1,21 @@
+==============================================================
+CS2110    Spring 2015    HW9
+Author: Derrick Williams                         
+==============================================================
+
+Game Play:
+This is a rehash of the classic game Breakout with the
+standard panel at the bottom, with a bouncing object on
+screen, and blocks at the top of the screen.
+
+Game Controls:
+Button START 	// Start game at the beginnig screen
+Button SELECT   // Exit game at anytime, on game over
+		// screen, and win screen
+Button LEFT 	// Move panel to the left
+Button RIGHT 	// Move panel to the right
+
+
+
+
+       
