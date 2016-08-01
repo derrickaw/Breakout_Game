@@ -1,5 +1,4 @@
 ==============================================================
-CS2110    Spring 2015    HW9
 Author: Derrick Williams                         
 ==============================================================
 
@@ -8,12 +7,19 @@ This is a rehash of the classic game Breakout with the
 standard panel at the bottom, with a bouncing object on
 screen, and blocks at the top of the screen.
 
+Game Setup:
+User must run these two commands in a 64-bit Linux OS:
+	sudo dpkg -i cs2110-tools_1.0-1_amd64.deb
+        sudo dpkg -i cs2110-tools-emulator-1.3.0-amd64.deb
+
+Then type "make vba", and the game should start up. Enjoy!
+
 Game Controls:
-Button START 	// Start game at the beginnig screen
-Button SELECT   // Exit game at anytime, on game over
-		// screen, and win screen
-Button LEFT 	// Move panel to the left
-Button RIGHT 	// Move panel to the right
+Button START  (ENTER button)	// Start game at the beginnig screen
+Button SELECT (DELETE button)   // Exit game at anytime, on game over
+				// screen, and win screen
+Button LEFT   (LEFT button)	// Move panel to the left
+Button RIGHT  (RIGHT button)	// Move panel to the right
 
 
 
